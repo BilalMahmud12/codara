@@ -1,0 +1,6 @@
+{
+  "name": "malformed-project-fixture",
+  "version": "1.0.0",
+  "type": "module",
+  invalid json here
+}

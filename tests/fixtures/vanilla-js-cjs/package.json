@@ -1,0 +1,6 @@
+{
+  "name": "vanilla-js-cjs-fixture",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "src/index.js"
+}

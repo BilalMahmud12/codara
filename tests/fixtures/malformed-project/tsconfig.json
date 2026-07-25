@@ -1,0 +1,5 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext"
+  // missing closing brace intentionally

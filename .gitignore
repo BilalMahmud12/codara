@@ -6,6 +6,9 @@ dist/
 coverage/
 .nyc_output/
 
+# Codara output
+.codara/
+
 # Logs
 *.log
 npm-debug.log*

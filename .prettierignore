@@ -1,0 +1,5 @@
+dist
+coverage
+.codara
+node_modules
+tests/fixtures
